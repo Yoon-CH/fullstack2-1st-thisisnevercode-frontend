@@ -12,6 +12,7 @@
 ---
 - Front End
     - React / SASS / REST API / Git & GitHub
+
 - Back End
     - NodeJS / ExpressJS / MySQL / PrismaORM / Git & GitHub
 <br>
@@ -36,7 +37,7 @@ Footer
 
 ### API 문서
 ---
-https://documenter.getpostman.com/view/17483034/UV5WEJTR
+![API 문서](https://documenter.getpostman.com/view/17483034/UV5WEJTR)
 <br>
 
 ---

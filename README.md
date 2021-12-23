@@ -37,7 +37,7 @@ Footer
 
 ### API 문서
 ---
-![API 문서](https://documenter.getpostman.com/view/17483034/UV5WEJTR)
+[API 문서](https://documenter.getpostman.com/view/17483034/UV5WEJTR)
 <br>
 
 ---

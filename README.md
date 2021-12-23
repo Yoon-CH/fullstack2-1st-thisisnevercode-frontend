@@ -7,6 +7,7 @@
 ---
 - 2021.10.01 ~ 2021.10.16
 <br>
+
 ### 📗 기술 스택
 ---
 - Front End
@@ -14,6 +15,7 @@
 - Back End
     - NodeJS / ExpressJS / MySQL / PrismaORM / Git & GitHub
 <br>
+
 ### 🌈 Front-end 구현 기능
 ---
 
@@ -26,14 +28,17 @@ Nav
 Footer
 - 반응형
 <br>
+
 ### DB 모델링
 ---
 ![thisisnevercode](https://user-images.githubusercontent.com/81890292/137630227-ce64a667-bb65-4a43-8b04-dba5f07a4f87.png)
 <br>
+
 ### API 문서
 ---
 https://documenter.getpostman.com/view/17483034/UV5WEJTR
 <br>
+
 ---
 
 ‼️ Reference

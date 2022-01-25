@@ -1,4 +1,4 @@
-\## 👨‍💻 Team Thisisnevercode
+## 👨‍💻 Team Thisisnevercode
 
 - 안녕하세요 저희는 'Thisisneverthat' 사이트의 클론 코딩을 진행하게 된 Thisisnevercode입니다.
 - 진행기간 : 2021년 10월 1일 ~ 2021년 10월 16일
